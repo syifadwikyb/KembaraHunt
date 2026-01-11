@@ -1,8 +1,8 @@
 import React from 'react';
 import {
-    Animated,
-    Dimensions,
-    View,
+  Animated,
+  Dimensions,
+  View,
 } from 'react-native';
 
 import RedeemIcon from '../../assets/game/chest.svg';
@@ -21,7 +21,7 @@ const MENU = [
   {
     id: '2',
     title: 'MISSIONS',
-    Icon: HeroIcon, // sementara pakai hero dulu
+    Icon: HeroIcon,
     scale: 1.15,
     offsetY: 10,
   },
